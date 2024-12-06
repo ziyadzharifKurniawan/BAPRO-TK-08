@@ -32,4 +32,5 @@ Code Development
 • Each team member must make at least 3 commits with clear messages.
 
 • Maintain a log of team contributions (who worked on what) in a separate file.
+
   • Maintaining log by creating notes on their progress and is submitted with their own code.
